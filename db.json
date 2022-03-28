@@ -1,0 +1,61 @@
+{
+  "user_data": [
+    {
+      "name": "yashas",
+      "password": "12345",
+      "location": "bangalore",
+      "interests": [
+        "technology",
+        "food",
+        "movies",
+        "culture",
+        "art",
+        "drama"
+      ],
+      "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+      "id": 1,
+      "subscribed": [
+        1,
+        5
+      ]
+    },
+    {
+      "name": "priya",
+      "password": "priya",
+      "location": "kolkatta",
+      "interests": [
+        "technology",
+        "food",
+        "movies",
+        "culture",
+        "art",
+        "drama"
+      ],
+      "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+      "id": 2,
+      "subscribed": [
+        1,
+        5
+      ]
+    }
+   
+  
+   
+  ],
+  "meetups": [
+   
+   
+     
+    {
+      "id": 1,
+      "title": "yashas",
+      "location": "bangalore",
+      "date": "2022-03-28",
+      "time": "23:59",
+      "theme": "technology",
+      "description": "Event",
+      "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg"
+    }
+    
+  ]
+}
